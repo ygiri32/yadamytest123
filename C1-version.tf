@@ -7,7 +7,7 @@ terraform {
       version = "4.54.0"
     }
   }
-
+}
 # provider Block
 provider "aws" {
 
